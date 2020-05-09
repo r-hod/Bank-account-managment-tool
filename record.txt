@@ -1,0 +1,7 @@
+
+2020-05-09 14:26:56.500699 new was opened
+2020-05-09 14:27:51.109479 new account was closed
+2020-05-09 14:28:16.218811 shared $200 withdrawn
+2020-05-09 14:29:58.434808 mojo $300 deposited
+2020-05-09 14:45:35.582641 new account was opened
+2020-05-09 14:45:50.055727 new account was closed
